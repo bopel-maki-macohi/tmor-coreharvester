@@ -2,4 +2,15 @@ body
 {
     background-image: url("res/cover-faded.png");
     background-size: cover;
+
+    /* font-family:monospace; */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+#content
+{
+    background-color: black;
+
+    color: white;
 }
