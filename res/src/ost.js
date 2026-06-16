@@ -26,6 +26,7 @@ ost.forEach(track => {
     var audioSource = document.createElement('source');
 
     trackAudio.controls = true;
+    trackAudio.loop = true;
 
     audioSource.src = track.wav;
     audioSource.type = 'audio/wav';
