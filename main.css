@@ -1,13 +1,18 @@
 body
 {
-    background-image: url("res/cover-faded.png");
+    background-image: url("./res/cover-faded.png");
     background-size: cover;
 
     background-position: 100% 50%;
 
     /* font-family:monospace; */
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Bitend, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: large;
+}
+
+@font-face {
+    font-family: Bitend;
+    src: url("./res/Bitend DEMO.ttf");
 }
 
 hr
