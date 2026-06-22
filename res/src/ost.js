@@ -27,7 +27,7 @@ let ost = [
     {
         name: "Core Heat",
         video: null,
-        wav: "./res/ost/CoreHeat.wav",
+        wav: "./res/ost/CoreHeatV2.wav",
     },
 ]
 
