@@ -3,7 +3,7 @@ var weburl = document.getElementById('WEBURL').innerHTML
 var topheader = document.getElementsByClassName('topheader')[0]
 
 var tch = document.createElement('a')
-tch.href = weburl + '/index.html';
+tch.href = weburl + 'index.html';
 tch.innerHTML = 'Back';
 
 topheader.appendChild(document.createElement('hr'))
