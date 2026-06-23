@@ -6,12 +6,12 @@ let ost = [
     },
     {
         name: "Charge Up (Teaser Trailer Song)",
-        video: null,
+        video: 'https://www.youtube.com/watch?v=hbAAHGGKP2I',
         wav: "./res/ost/ChargeUp (Trailer).wav",
     },
     {
         name: "Expose",
-        video: null,
+        video: 'https://www.youtube.com/watch?v=_CPRCIroh9c',
         wav: "./res/ost/Expose.wav",
     },
     {
