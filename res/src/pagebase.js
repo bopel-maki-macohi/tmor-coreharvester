@@ -16,7 +16,7 @@ console.log(hiddenurl.innerHTML)
 
 var stylesheet = document.createElement('link')
 stylesheet.rel = "stylesheet"
-stylesheet.href = hiddenurl.innerHTML + "main.css"
+stylesheet.href = hiddenurl.innerHTML + "res/style/main.css"
 document.head.appendChild(stylesheet)
 
 var topheader = document.createElement('div')
